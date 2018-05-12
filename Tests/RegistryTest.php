@@ -8,7 +8,8 @@ namespace JDZ\Registry;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @author Joffrey Demetz <joffrey.demetz@gmail.com>
+ * @package Test
+ * @author  Joffrey Demetz <joffrey.demetz@gmail.com>
  */
 class RegistryTest extends TestCase
 {
