@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Registry",
 	"keywords": ["registry"],
-	"homepage": "http://joffreydemetz.com/git/registry/",
+    "homepage": "https://github.com/joffreydemetz/registry/",
 	"version": "1.2.3",
 	"license": "MIT",
 	
