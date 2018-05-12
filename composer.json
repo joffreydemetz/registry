@@ -3,22 +3,21 @@
 	"type": "library",
 	"description": "Registry",
 	"keywords": ["registry"],
-	"homepage": "http://joffreydemetz.com/git/registry/",
-	"version": "1.2.0",
+	"homepage": "https://github.com/joffreydemetz/registry/",
+	"version": "1.2.1",
 	"license": "MIT",
 	
 	"authors": [
 		{
 			"name": "Joffrey Demetz",
 			"email": "joffrey.demetz@gmail.com",
-			"homepage": "http://joffreydemetz.com",
+			"homepage": "https://joffreydemetz.com",
 			"role": "Lead"
 		}
 	],
 	
 	"require": {
-		"php": ">=5.6",
-        "symfony/yaml": "^3.3",
+        "symfony/yaml": "^3.4|^4.0",
 		"jdz/filesystem": "^1.2",
         "jdz/helpers": "^1.2",
 		"jdz/utilities": "^1.2"
