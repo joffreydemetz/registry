@@ -253,7 +253,7 @@ class Registry implements \JsonSerializable
     else {
       $data = (array) $data;
     }
-
+    
     foreach($data as $k => $v){
       if ( (is_array($v) && ArrayHelper::isAssociative($v)) || is_object($v) ){
         $parent->$k = new \stdClass;
